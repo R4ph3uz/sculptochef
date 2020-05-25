@@ -15,7 +15,7 @@
     <div class="container--accueil">
         <div class="container--content">
             <header>
-            <div class="logo"><img src="./images" alt=""></div>
+            <div class="logo"><img src="./images/logo.jpg" alt="Logo"></div>
             </header>
         </div>
     </div>
