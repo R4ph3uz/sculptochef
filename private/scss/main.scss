@@ -1,0 +1,23 @@
+// @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@200;400;500;600;700;800&display=swap");
+
+@import "./outils/variables";
+@import "./outils/functions";
+@import "./outils/mixins";
+@import "./outils/placeholders";
+
+@import "./base/base";
+@import "./base/typo";
+
+@import "./composant/btns";
+@import "./composant/sections";
+@import "./composant/titres";
+@import "./composant/dependencies";
+
+@import "./layout/header";
+@import "./layout/nav";
+@import "./layout/footer";
+
+// @import './pages/index';
+// @import './pages/a-propos';
+// @import './pages/services';
+// @import './pages/contact';
