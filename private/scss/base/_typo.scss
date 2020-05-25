@@ -1,0 +1,12 @@
+body{
+    font-family: 'Noto Serif', serif;
+    font-weight:400;
+    color:$ecriture;
+    background-color: $background;
+}
+
+
+::-moz-selection{
+	color: invert($ecriture);
+	background-color: invert($background);
+}
